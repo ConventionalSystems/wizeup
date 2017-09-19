@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "303185191463",
+    "firebase_url": "https://wizeup-1dcc7.firebaseio.com",
+    "project_id": "wizeup-1dcc7",
+    "storage_bucket": "wizeup-1dcc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303185191463:android:47bdc41cf69902f8",
+        "android_client_info": {
+          "package_name": "com.wizeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303185191463-aojburng1muit9e5hdoihoi83dqmm7bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wizeup",
+            "certificate_hash": "1692c0a87bf9945cde83b6d5e1a53ea0bf07a676"
+          }
+        },
+        {
+          "client_id": "303185191463-8vb6ra0ame6k2kaogbqp5bdlcpd3bmk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wizeup",
+            "certificate_hash": "23d9a6ef167dc02bbc217cd11ba68f0755739dac"
+          }
+        },
+        {
+          "client_id": "303185191463-dgae21co80a9469dprp6jshr0jqvqsg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNerjoOJ5hyuYLWGnmfP8zvlrqWGntl5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303185191463-dgae21co80a9469dprp6jshr0jqvqsg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
